@@ -46,7 +46,7 @@ As a Medium Technical Writer, I enjoy sharing my knowledge and insights with the
 
 Here are some of the projects I have worked on:
 
-1. CourseHub ([link-to-project-1](https://github.com/Coding-Club-IITG/CourseHub)): An online platform for IITG students to get access to all study materials in a single app.
+1. CourseHub (https://github.com/Coding-Club-IITG/CourseHub): An online platform for IITG students to get access to all study materials in a single app.
 2. Chat App (https://github.com/ranjankuldeep/WebSocket_Chat-App): Implemented on socket.io, a group chat application.
 
 Feel free to explore the repositories for more details about each project.
