@@ -46,8 +46,8 @@ As a Medium Technical Writer, I enjoy sharing my knowledge and insights with the
 
 Here are some of the projects I have worked on:
 
-1. CourseHub (https://github.com/Coding-Club-IITG/CourseHub): An online platform for IITG students to get access to all study materials in a single app.
-2. Chat App (https://github.com/ranjankuldeep/WebSocket_Chat-App): Implemented on socket.io, a group chat application.
+1. [CourseHub](https://github.com/Coding-Club-IITG/CourseHub): An online platform for IITG students to get access to all study materials in a single app.
+2. [Chat App](https://github.com/ranjankuldeep/WebSocket_Chat-App): Implemented on socket.io, a group chat application.
 
 Feel free to explore the repositories for more details about each project.
 
@@ -55,7 +55,7 @@ Feel free to explore the repositories for more details about each project.
 
 I regularly write technical articles on Medium. Here are some of my recent publications:
 
-1. Understanding Message Queue and Its role in System Architecture (https://medium.com/@kuldeepranjan39/message-queue-e2085636b6f5):
+1. [Understanding Message Queue and Its role in System Architecture](https://medium.com/@kuldeepranjan39/message-queue-e2085636b6f5):
 It is an architectural pattern that arranges an application as a collection of loosely coupled, fine-grained services, communicating with each other through lightweight protocols.
 Communication between these different services plays a vital role in delivering at scale and this is where Message Queue comes into the picture to facilitate persistent and efficient data exchange between services.
 Read more about this in my Blog on Medium to understand its technical side and use cases in real-world applications.
@@ -66,9 +66,9 @@ Feel free to check out my Medium profile for more articles and tutorials.
 
 ## Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/kuldeep-ranjan-aa66ab224/
-- Medium: https://medium.com/@kuldeepranjan39
-- Twitter: https://twitter.com/KuldeepRanjan19
+- [LinkedIn](https://www.linkedin.com/in/kuldeep-ranjan-aa66ab224/)
+- [Medium](https://medium.com/@kuldeepranjan39)
+- [Twitter](https://twitter.com/KuldeepRanjan19)
 - Email: kuldeepranjan39@gmail.com
 
 Feel free to reach out if you have any questions, or collaboration ideas, or just want to connect!
