@@ -55,7 +55,7 @@ Feel free to explore the repositories for more details about each project.
 
 I regularly write technical articles on Medium. Here are some of my recent publications:
 
-1. Understanding Message Queue and Its role in System Architecture(https://medium.com/@kuldeepranjan39/message-queue-e2085636b6f5): In building scalable, high-reliability and deliverability applications, One should know about the system architecture design to be a better backend engineer.
+1. Understanding Message Queue and Its role in System Architecture (https://medium.com/@kuldeepranjan39/message-queue-e2085636b6f5): In building scalable, high-reliability and deliverability applications, One should know about the system architecture design to be a better backend engineer.
 One such architecture pattern which is widely popular to build and deliver large complex applications is the use of microservices.
 It is an architectural pattern that arranges an application as a collection of loosely coupled, fine-grained services, communicating with each other through lightweight protocols.
 Communication between these different services plays a vital role in delivering at scale and this is where Message Queue comes into the picture to facilitate persistent and efficient data exchange between services.
