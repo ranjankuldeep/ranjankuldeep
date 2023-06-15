@@ -2,7 +2,7 @@
 
 ## Hi there! 👋
 
-I'm **[Kuldeep Ranjan]**, a Full Stack Web Developer and Technical Writer. Welcome to my GitHub profile!
+I'm **Kuldeep Ranjan**, a Full Stack Web Developer and Technical Writer. Welcome to my GitHub profile!
 
 ## About Me
 
