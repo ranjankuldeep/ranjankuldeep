@@ -17,18 +17,20 @@ As a Medium Technical Writer, I enjoy sharing my knowledge and insights with the
   - CSS3
   - JavaScript
   - React
-  - Angular
-  - Vue.js
+  - NextJs
+  - StoryBook
+  - styled-components
+  - TailwindCSS
 
 - Backend Development:
   - Node.js
   - Express.js
-  - Django
-  - Ruby on Rails
-  - Flask
+  - Mongoose
+  - Prisma
+  - web-rtc
+  - TurboRepo
 
 - Databases:
-  - MySQL
   - PostgreSQL
   - MongoDB
   - Firebase
@@ -37,18 +39,15 @@ As a Medium Technical Writer, I enjoy sharing my knowledge and insights with the
   - Git
   - Docker
   - RESTful APIs
-  - GraphQL
   - AWS
-  - Heroku
+  - Kubernetes
 
 ## Projects
 
 Here are some of the projects I have worked on:
 
-1. [Project 1](link-to-project-1): Briefly describe the project and its features.
-2. [Project 2](link-to-project-2): Briefly describe the project and its features.
-3. [Project 3](link-to-project-3): Briefly describe the project and its features.
-   ...
+1. CourseHub ([link-to-project-1](https://github.com/Coding-Club-IITG/CourseHub)): An online platform for IITG students to get access to all study materials in a single app.
+2. Chat App (https://github.com/ranjankuldeep/WebSocket_Chat-App): Implemented on socket.io, a group chat application.
 
 Feel free to explore the repositories for more details about each project.
 
@@ -56,33 +55,28 @@ Feel free to explore the repositories for more details about each project.
 
 I regularly write technical articles on Medium. Here are some of my recent publications:
 
-1. [Article 1](link-to-article-1): Briefly describe the article and its topic.
-2. [Article 2](link-to-article-2): Briefly describe the article and its topic.
-3. [Article 3](link-to-article-3): Briefly describe the article and its topic.
-   ...
+1. Understanding Message Queue and Its role in System Architecture(https://medium.com/@kuldeepranjan39/message-queue-e2085636b6f5): In building scalable, high-reliability and deliverability applications, One should know about the system architecture design to be a better backend engineer.
+One such architecture pattern which is widely popular to build and deliver large complex applications is the use of microservices.
+It is an architectural pattern that arranges an application as a collection of loosely coupled, fine-grained services, communicating with each other through lightweight protocols.
+
+Communication between these different services plays a vital role in delivering at scale and this is where Message Queue comes into the picture to facilitate persistent and efficient data exchange between services.
+Read more about this in my Blog on Medium to understand its technical side and use cases in real-world applications.
+
 
 Feel free to check out my Medium profile for more articles and tutorials.
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin-profile)
-- Medium: [Your Medium Profile](link-to-medium-profile)
-- Twitter: [Your Twitter Profile](link-to-twitter-profile)
-- Email: [your.email@example.com]
+- LinkedIn: https://www.linkedin.com/in/kuldeep-ranjan-aa66ab224/
+- Medium: https://medium.com/@kuldeepranjan39
+- Twitter: https://twitter.com/KuldeepRanjan19
+- Email: kuldeepranjan39@gmail.com
 
-Feel free to reach out if you have any questions, collaboration ideas, or just want to connect!
-
-## Blog
-
-I maintain a personal blog where I share my thoughts on technology, programming, and industry trends. Visit my blog [here](link-to-your-blog).
+Feel free to reach out if you have any questions, or collaboration ideas, or just want to connect!
 
 ## Hire Me
 
 If you're looking for a skilled Full Stack Web Developer or need help with technical writing projects, I am available for hire. Please reach out via email to discuss your requirements and project details.
-
-## License
-
-[Specify the license under which your projects are distributed. For example, MIT, Apache, GNU, etc.]
 
 ## Thank You!
 
