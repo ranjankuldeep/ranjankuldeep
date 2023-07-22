@@ -55,11 +55,14 @@ Feel free to explore the repositories for more details about each project.
 
 I regularly write technical articles on Medium. Here are some of my recent publications:
 
-1. [Understanding Message Queue and Its role in System Architecture](https://medium.com/@kuldeepranjan39/message-queue-e2085636b6f5):
+1. [Understanding Message Queue and Its Role in System Architecture](https://medium.com/@kuldeepranjan39/message-queue-e2085636b6f5):
 It is an architectural pattern that arranges an application as a collection of loosely coupled, fine-grained services, communicating with each other through lightweight protocols.
 Communication between these different services plays a vital role in delivering at scale and this is where Message Queue comes into the picture to facilitate persistent and efficient data exchange between services.
 Read more about this in my Blog on Medium to understand its technical side and use cases in real-world applications.
 
+2. [IP Address Conflict with Docker](https://medium.com/@kuldeepranjan39/ip-address-conflict-with-docker-dc7c9e00ee69):
+Have you ever heard of or experienced Ip address conflict, If not allow me to explain the issue which I faced and the knowledge I gained debugging it. I will roughly provide an overview of what happened rather than getting deep into it.
+Read more about this in my Blog on Medium to know more about it in detail.
 
 
 Feel free to check out my Medium profile for more articles and tutorials.
