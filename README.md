@@ -13,9 +13,6 @@ As a Medium Technical Writer, I enjoy sharing my knowledge and insights with the
 ## Skills
 
 - Frontend Development:
-  - HTML5
-  - CSS3
-  - JavaScript
   - React
   - NextJs
   - StoryBook
